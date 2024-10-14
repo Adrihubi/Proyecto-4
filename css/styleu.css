@@ -2,18 +2,20 @@
     padding: 0;
     margin: 0;
 }
-#Pie
-{
+.table{
+    width: 20%;
+    margin: 0 auto;
+    text-align: justify;
+}
+#Pie{
     padding-top: 10px;
     padding-block: 10px;
     padding-left: 20px;
     background-color: salmon;
 }
-#In
-{
+#In{
     padding-left: 30px;
 }
-ul
-{
+ul{
     list-style-type: none;
 }

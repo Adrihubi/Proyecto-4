@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#Pie
+{
+    padding-top: 10px;
+    padding-block: 10px;
+    padding-left: 20px;
+    background-color: salmon;
+}
+#In
+{
+    padding-left: 30px;
+}
+ul
+{
+    list-style-type: none;
+}

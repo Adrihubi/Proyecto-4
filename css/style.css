@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+c
+{
+    text-align: justify;
+    color:aquamarine;
+    background-color: black;
+    position: absolute;
+    padding-top: 10px;
+    padding-inline: 150px;
+    padding-block: 15px;
+    line-height: 2;
+}
+#Uno
+{
+    float: right;
+    width: 300px;
+    padding-left: 15px;
+}
+#Pie
+{
+    padding-top: 10px;
+    padding-block: 10px;
+    padding-left: 20px;
+    background-color: salmon;
+}
+#In
+{
+    padding-left: 30px;
+}
+ul
+{
+    list-style-type: none;
+}
